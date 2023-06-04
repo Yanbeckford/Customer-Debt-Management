@@ -1,0 +1,25 @@
+.custForm{
+    background-color: bisque;
+    text-align: center;
+}
+nav{
+    height: 80px;
+}
+nav img{
+    height: 120%;
+}
+form{
+    height: 610px;
+}
+form input{
+    padding: 5px 55px 5px 55px;
+   border: 1px lightgray solid ;
+   border-radius: 5px;
+   
+}
+
+form button.btn{
+    padding-left: 35px;
+    padding-right:35px ;
+    background-color: rgb(241, 181, 107);
+}

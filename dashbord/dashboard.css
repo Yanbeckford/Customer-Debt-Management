@@ -1,0 +1,33 @@
+nav{
+    height: 80px;
+}
+nav img{
+    height: 120%;
+}
+.container{
+    color: rgb(99, 85, 28);
+}
+.select{
+    height: 610px;
+    background: bisque;
+    text-align: center;
+    padding-top: 225px;
+}
+.select button a{
+    text-decoration: none;
+    color:rgb(99, 85, 28); ;
+}
+button.sell{
+    background-color: rgb(241, 181, 107);
+ 
+}
+button.cust{
+    padding-left: 30px;
+    padding-right:30px ;
+    background-color: rgb(241, 181, 107);
+}
+button.set{
+    padding-left: 35px;
+    padding-right:35px ;
+    background-color: rgb(241, 181, 107);
+}
