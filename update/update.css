@@ -1,6 +1,8 @@
 .custForm{
-    background-color: bisque;
+    background-color: whitesmoke;
     text-align: center;
+    padding-top: 100px;
+    margin-bottom: 20px;
 }
 nav{
     height: 80px;
@@ -10,6 +12,7 @@ nav img{
 }
 form{
     height: 610px;
+    
 }
 form input{
     padding: 5px 55px 5px 55px;
@@ -22,14 +25,6 @@ form button.btn{
     padding-left: 35px;
     padding-right:35px ;
     background-color: rgb(241, 181, 107);
-}
-form button.btn a{
-    padding-left: 15px;
-    padding-right:15px ;
-    background-color: rgb(241, 181, 107);
-    text-decoration: none;
-    color:rgb(99, 85, 28); ;
-    
 }
 form hr{
     margin: 15px 200px 15px 200px;
