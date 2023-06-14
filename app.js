@@ -9,7 +9,12 @@ function LoginValidation(){
 
   }else if(username = 'admin' && passcode == 1234){
     alert('Login successful')
+  }else if(username !== 'admin' && passcode !== 1234){
+    alert ('Username or password incorrect')
   }
+  }
+  function customerForm(){
+    let custname = doc
   }
   
   

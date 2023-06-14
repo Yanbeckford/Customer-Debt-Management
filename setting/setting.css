@@ -4,3 +4,9 @@ nav{
 nav img{
     height: 120%;
 }
+.balance{
+    margin-top: 0px;
+    background: whitesmoke;
+    height: 620px;
+    padding-top: 100px;
+}
